@@ -1,0 +1,16 @@
+C:\Users\Xalya\OneDrive\Рабочий стол\gg\.vscode\example005\obj\Debug\net6.0\example005.GlobalUsings.g.cs
+C:\Users\Xalya\OneDrive\Рабочий стол\gg\.vscode\example005\obj\Debug\net6.0\example005.csproj.AssemblyReference.cache
+C:\Users\Xalya\OneDrive\Рабочий стол\gg\.vscode\example005\obj\Debug\net6.0\example005.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xalya\OneDrive\Рабочий стол\gg\.vscode\example005\obj\Debug\net6.0\example005.AssemblyInfoInputs.cache
+C:\Users\Xalya\OneDrive\Рабочий стол\gg\.vscode\example005\obj\Debug\net6.0\example005.AssemblyInfo.cs
+C:\Users\Xalya\OneDrive\Рабочий стол\gg\.vscode\example005\obj\Debug\net6.0\example005.csproj.CoreCompileInputs.cache
+C:\Users\Xalya\OneDrive\Рабочий стол\gg\.vscode\example005\bin\Debug\net6.0\example005.exe
+C:\Users\Xalya\OneDrive\Рабочий стол\gg\.vscode\example005\bin\Debug\net6.0\example005.deps.json
+C:\Users\Xalya\OneDrive\Рабочий стол\gg\.vscode\example005\bin\Debug\net6.0\example005.runtimeconfig.json
+C:\Users\Xalya\OneDrive\Рабочий стол\gg\.vscode\example005\bin\Debug\net6.0\example005.dll
+C:\Users\Xalya\OneDrive\Рабочий стол\gg\.vscode\example005\bin\Debug\net6.0\ref\example005.dll
+C:\Users\Xalya\OneDrive\Рабочий стол\gg\.vscode\example005\bin\Debug\net6.0\example005.pdb
+C:\Users\Xalya\OneDrive\Рабочий стол\gg\.vscode\example005\obj\Debug\net6.0\example005.dll
+C:\Users\Xalya\OneDrive\Рабочий стол\gg\.vscode\example005\obj\Debug\net6.0\ref\example005.dll
+C:\Users\Xalya\OneDrive\Рабочий стол\gg\.vscode\example005\obj\Debug\net6.0\example005.pdb
+C:\Users\Xalya\OneDrive\Рабочий стол\gg\.vscode\example005\obj\Debug\net6.0\example005.genruntimeconfig.cache
